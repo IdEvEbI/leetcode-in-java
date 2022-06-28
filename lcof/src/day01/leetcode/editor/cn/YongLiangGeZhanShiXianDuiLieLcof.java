@@ -8,7 +8,7 @@ import java.util.Deque;
  * <p>
  * 分类：栈, 队列, 设计
  * 难度：简单
- * 链接：https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+ * 链接：<a href="https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/">...</a>
  */
 public class YongLiangGeZhanShiXianDuiLieLcof {
     public static void main(String[] args) {
