@@ -29,7 +29,7 @@ public class CongWeiDaoTouDaYinLianBiaoLcof {
         System.out.println(Arrays.toString(ans));
     }
 
-    public class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
 
