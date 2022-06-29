@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/TiHuanKongGeLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/doc/content/TiHuanKongGeLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 05" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/TiHuanKongGeLcof.java" />
+              <option name="titleSlug" value="ti-huan-kong-ge-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/YongLiangGeZhanShiXianDuiLieLcof.java">
           <value>
             <LeetcodeEditor>

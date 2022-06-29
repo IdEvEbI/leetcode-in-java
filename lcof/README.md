@@ -10,3 +10,7 @@
 1. [剑指 Offer 06. 从尾到头打印链表](src/day01/leetcode/editor/cn/CongWeiDaoTouDaYinLianBiaoLcof.java)
 2. [剑指 Offer 24. 反转链表](src/day01/leetcode/editor/cn/FanZhuanLianBiaoLcof.java)
 3. [剑指 Offer 35. 复杂链表的复制](src/day01/leetcode/editor/cn/FuZaLianBiaoDeFuZhiLcof.java)
+
+## 第 3 天 - 字符串（简单）
+
+1. [剑指 Offer 05. 替换空格](src/day01/leetcode/editor/cn/TiHuanKongGeLcof.java)
