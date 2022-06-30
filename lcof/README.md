@@ -31,3 +31,4 @@
 ## 第 6 天 -
 
 1. [剑指 Offer 32 - I. 从上到下打印二叉树](src/day01/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuLcof.java)
+2. [剑指 Offer 32 - II. 从上到下打印二叉树 II](src/day01/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuIiLcof.java)
