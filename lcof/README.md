@@ -20,3 +20,4 @@
 
 1. [剑指 Offer 03. 数组中重复的数字](src/day01/leetcode/editor/cn/ShuZuZhongZhongFuDeShuZiLcof.java)
 2. [剑指 Offer 53 - I. 在排序数组中查找数字 I](src/day01/leetcode/editor/cn/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java)
+3. [剑指 Offer 53 - II. 0～n-1中缺失的数字](src/day01/leetcode/editor/cn/QueShiDeShuZiLcof.java)
