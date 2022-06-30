@@ -19,3 +19,4 @@
 ## 第 4 天 - 查找算法（简单）
 
 1. [剑指 Offer 03. 数组中重复的数字](src/day01/leetcode/editor/cn/ShuZuZhongZhongFuDeShuZiLcof.java)
+2. [剑指 Offer 53 - I. 在排序数组中查找数字 I](src/day01/leetcode/editor/cn/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java)
