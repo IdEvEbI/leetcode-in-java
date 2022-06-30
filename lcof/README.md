@@ -15,3 +15,7 @@
 
 1. [剑指 Offer 05. 替换空格](src/day01/leetcode/editor/cn/TiHuanKongGeLcof.java)
 2. [剑指 Offer 58 - II. 左旋转字符串](src/day01/leetcode/editor/cn/ZuoXuanZhuanZiFuChuanLcof.java)
+
+## 第 4 天 - 查找算法（简单）
+
+1. [剑指 Offer 03. 数组中重复的数字](src/day01/leetcode/editor/cn/ShuZuZhongZhongFuDeShuZiLcof.java)
