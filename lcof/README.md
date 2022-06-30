@@ -26,3 +26,4 @@
 
 1. [剑指 Offer 04. 二维数组中的查找](src/day01/leetcode/editor/cn/ErWeiShuZuZhongDeChaZhaoLcof.java)
 2. [剑指 Offer 11. 旋转数组的最小数字](src/day01/leetcode/editor/cn/XuanZhuanShuZuDeZuiXiaoShuZiLcof.java)
+3. [剑指 Offer 50. 第一个只出现一次的字符](src/day01/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java)
