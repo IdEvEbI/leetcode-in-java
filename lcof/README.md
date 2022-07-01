@@ -28,8 +28,12 @@
 2. [剑指 Offer 11. 旋转数组的最小数字](src/day01/leetcode/editor/cn/XuanZhuanShuZuDeZuiXiaoShuZiLcof.java)
 3. [剑指 Offer 50. 第一个只出现一次的字符](src/day01/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java)
 
-## 第 6 天 -
+## 第 6 天 - 搜索与回溯算法（简单）
 
 1. [剑指 Offer 32 - I. 从上到下打印二叉树](src/day01/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuLcof.java)
 2. [剑指 Offer 32 - II. 从上到下打印二叉树 II](src/day01/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuIiLcof.java)
 3. [剑指 Offer 32 - III. 从上到下打印二叉树 III](src/day01/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuIiiLcof.java)
+
+## 第 7 天 - 搜索与回溯算法（简单）
+
+1. [剑指 Offer 26. 树的子结构](src/day01/leetcode/editor/cn/ShuDeZiJieGouLcof.java)
