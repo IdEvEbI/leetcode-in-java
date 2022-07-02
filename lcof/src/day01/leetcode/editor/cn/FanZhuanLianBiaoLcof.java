@@ -1,5 +1,7 @@
 package day01.leetcode.editor.cn;
 
+import linkedList.ListNode;
+
 /**
  * 剑指 Offer 24. 反转链表
  * <p>
@@ -9,28 +11,13 @@ package day01.leetcode.editor.cn;
  */
 public class FanZhuanLianBiaoLcof {
     public static void main(String[] args) {
-        FanZhuanLianBiaoLcof my = new FanZhuanLianBiaoLcof();
-
-        Solution solution = my.new Solution();
+        Solution solution = new FanZhuanLianBiaoLcof().new Solution();
 
         // 创建链表
-        ListNode head = my.new ListNode(1);
-        head.next = my.new ListNode(2);
-        head.next.next = my.new ListNode(3);
-        head.next.next.next = my.new ListNode(4);
-        head.next.next.next.next = my.new ListNode(5);
+        ListNode head = new ListNode(new int[]{1, 2, 3, 4, 5});
 
         ListNode ans = solution.reverseList(head);
-        System.out.println(ans.val);
-    }
-
-    private class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
+        System.out.println(ans);
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)

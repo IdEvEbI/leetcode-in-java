@@ -1,5 +1,7 @@
 package day01.leetcode.editor.cn;
 
+import linkedList.ListNode;
+
 import java.util.Arrays;
 
 /**
@@ -11,31 +13,16 @@ import java.util.Arrays;
  */
 public class CongWeiDaoTouDaYinLianBiaoLcof {
     public static void main(String[] args) {
-        CongWeiDaoTouDaYinLianBiaoLcof my = new CongWeiDaoTouDaYinLianBiaoLcof();
-
-        Solution solution = my.new Solution();
+        Solution solution = new CongWeiDaoTouDaYinLianBiaoLcof().new Solution();
 
         // 创建链表
-        ListNode head = my.new ListNode(1);
-        head.next = my.new ListNode(2);
-        head.next.next = my.new ListNode(3);
-        head.next.next.next = my.new ListNode(4);
-        head.next.next.next.next = my.new ListNode(5);
+        ListNode head = new ListNode(new int[]{1, 2, 3, 4, 5});
 
         int[] ans = solution.reversePrint(head);
         System.out.println(Arrays.toString(ans));
 
         ans = solution.reversePrint(null);
         System.out.println(Arrays.toString(ans));
-    }
-
-    private class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
