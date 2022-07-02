@@ -201,6 +201,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/JuZhenZhongDeLuJingLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/doc/content/JuZhenZhongDeLuJingLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 12" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/JuZhenZhongDeLuJingLcof.java" />
+              <option name="titleSlug" value="ju-zhen-zhong-de-lu-jing-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/LiWuDeZuiDaJieZhiLcof.java">
           <value>
             <LeetcodeEditor>
