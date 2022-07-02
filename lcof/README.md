@@ -45,3 +45,7 @@
 1. [剑指 Offer 10- I. 斐波那契数列](src/day01/leetcode/editor/cn/FeiBoNaQiShuLieLcof.java)
 2. [剑指 Offer 10- II. 青蛙跳台阶问题](src/day01/leetcode/editor/cn/QingWaTiaoTaiJieWenTiLcof.java)
 3. [剑指 Offer 63. 股票的最大利润](src/day01/leetcode/editor/cn/GuPiaoDeZuiDaLiRunLcof.java)
+
+## 第 9 天 - 动态规划（中等）
+
+1. [剑指 Offer 42. 连续子数组的最大和](src/day01/leetcode/editor/cn/LianXuZiShuZuDeZuiDaHeLcof.java)
