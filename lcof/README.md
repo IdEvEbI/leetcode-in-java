@@ -38,3 +38,5 @@
 
 1. [剑指 Offer 26. 树的子结构](src/day01/leetcode/editor/cn/ShuDeZiJieGouLcof.java)
 2. [剑指 Offer 27. 二叉树的镜像](src/day01/leetcode/editor/cn/ErChaShuDeJingXiangLcof.java)
+3. [剑指 Offer 28. 对称的二叉树](src/day01/leetcode/editor/cn/DuiChengDeErChaShuLcof.java)
+
