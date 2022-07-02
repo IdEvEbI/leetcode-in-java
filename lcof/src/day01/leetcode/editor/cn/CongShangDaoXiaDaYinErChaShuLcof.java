@@ -1,5 +1,8 @@
 package day01.leetcode.editor.cn;
 
+import tree.BinaryTree;
+import tree.TreeNode;
+
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
@@ -13,28 +16,12 @@ import java.util.Queue;
  */
 public class CongShangDaoXiaDaYinErChaShuLcof {
     public static void main(String[] args) {
-        CongShangDaoXiaDaYinErChaShuLcof my = new CongShangDaoXiaDaYinErChaShuLcof();
-        Solution solution = my.new Solution();
+        Solution solution = new CongShangDaoXiaDaYinErChaShuLcof().new Solution();
 
-        // 创建二叉树
-        TreeNode root = my.new TreeNode(3);
-        root.left = my.new TreeNode(9);
-        root.right = my.new TreeNode(20);
-        root.right.left = my.new TreeNode(15);
-        root.right.right = my.new TreeNode(7);
+        TreeNode root = new BinaryTree(new Integer[]{3, 9, 20, null, null, 15, 7}).root;
 
         int[] ans = solution.levelOrder(root);
         System.out.println(Arrays.toString(ans));
-    }
-
-    private class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
