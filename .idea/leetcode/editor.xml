@@ -179,6 +179,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/HeWeiSdeLiangGeShuZiLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/doc/content/HeWeiSdeLiangGeShuZiLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 57" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/HeWeiSdeLiangGeShuZiLcof.java" />
+              <option name="titleSlug" value="he-wei-sde-liang-ge-shu-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/LiWuDeZuiDaJieZhiLcof.java">
           <value>
             <LeetcodeEditor>
