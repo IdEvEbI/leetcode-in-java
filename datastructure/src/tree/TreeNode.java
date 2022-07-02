@@ -20,12 +20,19 @@ public class TreeNode {
     /**
      * 构造器
      *
-     * @param x 值
+     * @param val 值
      */
-    public TreeNode(int x) {
-        val = x;
+    public TreeNode(int val) {
+        this.val = val;
     }
 
+    /**
+     * 构造器
+     *
+     * @param val   值
+     * @param left  左子树节点
+     * @param right 右子树节点
+     */
     public TreeNode(int val, TreeNode left, TreeNode right) {
         this.val = val;
         this.left = left;
