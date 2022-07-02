@@ -37,3 +37,4 @@
 ## 第 7 天 - 搜索与回溯算法（简单）
 
 1. [剑指 Offer 26. 树的子结构](src/day01/leetcode/editor/cn/ShuDeZiJieGouLcof.java)
+2. [剑指 Offer 27. 二叉树的镜像](src/day01/leetcode/editor/cn/ErChaShuDeJingXiangLcof.java)

@@ -69,6 +69,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/ErChaShuDeJingXiangLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/doc/content/ErChaShuDeJingXiangLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 27" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/ErChaShuDeJingXiangLcof.java" />
+              <option name="titleSlug" value="er-cha-shu-de-jing-xiang-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/lcof/src/day01/leetcode/editor/cn/ErWeiShuZuZhongDeChaZhaoLcof.java">
           <value>
             <LeetcodeEditor>
