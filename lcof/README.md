@@ -54,3 +54,5 @@
 ## 第 10 天 - 动态规划（中等）
 
 1. [剑指 Offer 46. 把数字翻译成字符串](src/day01/leetcode/editor/cn/BaShuZiFanYiChengZiFuChuanLcof.java)
+2. [剑指 Offer 48. 最长不含重复字符的子字符串](src/day01/leetcode/editor/cn/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof.java)
+
