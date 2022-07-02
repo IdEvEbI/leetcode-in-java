@@ -49,3 +49,4 @@
 ## 第 9 天 - 动态规划（中等）
 
 1. [剑指 Offer 42. 连续子数组的最大和](src/day01/leetcode/editor/cn/LianXuZiShuZuDeZuiDaHeLcof.java)
+2. [剑指 Offer 47. 礼物的最大价值](src/day01/leetcode/editor/cn/LiWuDeZuiDaJieZhiLcof.java)
