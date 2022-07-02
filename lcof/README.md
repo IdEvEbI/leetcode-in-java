@@ -64,3 +64,4 @@
 # 第 12 天 - 双指针（简单）
 
 1. [剑指 Offer 25. 合并两个排序的链表](src/day01/leetcode/editor/cn/HeBingLiangGePaiXuDeLianBiaoLcof.java)
+2. [剑指 Offer 52. 两个链表的第一个公共节点](src/day01/leetcode/editor/cn/LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java)
